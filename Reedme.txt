@@ -1,0 +1,20 @@
+1. create mysql database
+
+2. import database.sql file into new created database
+
+3. change databse configration in config/config.php
+
+
+Now ready for login
+
+super admin
+Email :- super_admin@admin.com
+Password :- 123456
+
+admin
+Email :- admin@admin.com
+Password :- 123456
+
+User
+Email :- user@user.com
+Password :- 123456
